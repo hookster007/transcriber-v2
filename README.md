@@ -1,8 +1,6 @@
 # transcriber-app
 
-# Watch the tutorial video
 
-[How to build your own Speech-to-Text Transcription App in Python using AssemblyAI](https://youtu.be/Kj0JtjAxxKA)
 
 
 # 1. Obtain the AssemblyAI API key
